@@ -104,8 +104,6 @@ Projeto desenvolvido por estudantes do curso de Engenharia de Software:
 - Daniel Marques
 
 Instituição: Centro Universitário de Barra Mansa (UBM)
-Disciplina: Práticas Extensionistas Integradoras III
-Ano: 2026
 
 ---
 
