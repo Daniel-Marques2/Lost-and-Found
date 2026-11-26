@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Início"},{"path":"/login","title":"Entrar"},{"path":"/cadastro","title":"Cadastre-se"},{"path":"/recuperar-senha","title":"Recuperar senha"},{"path":"/localizar","title":"Localizar"},{"path":"/novo","title":"Publicar item"},{"path":"/item/:id","title":"Detalhes do item"},{"path":"/perfil","title":"Meu perfil"}]}
